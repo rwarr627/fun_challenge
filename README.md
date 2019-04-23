@@ -1,6 +1,6 @@
 # fun_challenge
 
-Game: https://github.com/rwarren728/fun_challenge/FunChallenge
+Game: https://rwarren728.github.io/fun_challenge/FunChallenge/
 
 Level 1: Boring
 Level 2: Stressful
